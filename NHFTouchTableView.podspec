@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "NHFTouchTableView"
-  s.version          = “1.0.1”
+  s.version          = "1.0.1"
   s.summary          = "为UITableView上边加上Touch的响应事件"
   s.homepage         = "https://github.com/nhfc99/NHFTouchTableView"  
   s.license          = 'MIT'
