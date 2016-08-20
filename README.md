@@ -3,7 +3,7 @@
 <p>为UITableView上边加上Touch的响应事件</p>
 <h2>安装</h2>
 <ul>
-<li>pod 'DeviceInfo'</li>
+<li>pod 'NHFTouchTableView'</li>
 <li>手动下载然后将文件夹拖至工程中即可</li>
 </ul>
 
